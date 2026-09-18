@@ -117,7 +117,10 @@ h1 {
   background-color: rgb(0, 0, 0);
   padding: 8px 19px;
   border-radius: 50%;
+  width: 110px;
+  margin: 0 auto;
 }
+
 .experiencia-titulo {
   font-size: 25px;
   font-family: "Inter", sans-serif;
